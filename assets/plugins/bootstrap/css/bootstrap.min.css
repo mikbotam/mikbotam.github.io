@@ -605,7 +605,13 @@ pre code {
 @media (min-width:440px) {
 
     .logo{
-        max-width: 60%
+        max-width: 54%;
+    }
+}
+@media (min-width:340px) {
+
+    .logo{
+        max-width: 54%;
     }
 }
 
