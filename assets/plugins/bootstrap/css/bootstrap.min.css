@@ -414,7 +414,7 @@ h4 {
 
 .h5,
 h5 {
-    font-size: 1.25rem
+    font-size: 1.25rem;
 }
 
 .h6,
@@ -4867,10 +4867,10 @@ input[type=submit].btn-block {
 }
 
 .card-header {
-    padding: .75rem 1.25rem;
+    padding: 4px 5px;
     margin-bottom: 0;
     background-color: rgba(0, 0, 0, .03);
-    border-bottom: 1px solid rgba(0, 0, 0, .125)
+    /* border-bottom: 1px solid rgba(0, 0, 0, .125); */
 }
 
 .card-header:first-child {
